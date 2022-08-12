@@ -1,0 +1,19 @@
+{
+  "name": "lbga",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.1009.0",
+    "bcrypt": "^5.0.1",
+    "dotenv": "^10.0.0",
+    "express.js": "^1.0.0",
+    "firebase-admin": "^9.12.0",
+    "nodemon": "^2.0.13"
+  }
+}
